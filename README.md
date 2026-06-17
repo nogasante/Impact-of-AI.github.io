@@ -1,4 +1,4 @@
-# # Impact of AI on Students' Learning Habits
+## Impact of AI on Students' Learning Habits
 
 A lightweight, single-page web survey exploring how Artificial Intelligence tools
 are shaping the way students study, solve problems, and manage their academic work.
@@ -6,7 +6,7 @@ are shaping the way students study, solve problems, and manage their academic wo
 The page introduces the research, then loads an embedded Google Form on demand so
 responses can be collected directly from the site.
 
-🔗 **Live site:** https://nogasante.github.io/impact-of-ai/
+🔗 **Live site:** https://nogasante.github.io/impactofaiforms/
 
 ---
 
